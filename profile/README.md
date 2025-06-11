@@ -1,6 +1,6 @@
 <div align="center">
   
-# Labs-inatel
+# Inatel-Labs
   
 **Organização pessoal para armazenamento e organização dos meus projetos e laboratórios acadêmicos**
 
